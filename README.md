@@ -1,9 +1,8 @@
 # Hola, mi nombre es Manuel Milián 👋
 
-En 2021-2022 realicé un posgrado de Software Quality Assurance para realizar un cambio en mi vida profesional, y gracias a ello, en abril de 2022 empecé a dedicarme a ello.</br>
-Actualmente trabajo como QA Tester Manual, pero tengo interés por el mundo de la automatización y me interesa todo tipo de cursos relacionado con ello.
-
-Tengo algo de experiencia en las siguientes tecnologías, aunque de manera profesional solo he trabajado con Selenium + Java, pero mi idea es seguir creciendo :muscle:
+:man_student: En 2021-2022 realicé un posgrado de Software Quality Assurance para realizar un cambio en mi vida profesional, y gracias a ello, en abril de 2022 empecé a dedicarme a ello.</br></br>
+:man_technologist: Actualmente trabajo como QA Tester Manual, pero tengo interés por el mundo de la automatización y me interesa todo tipo de cursos relacionado con ello.</br></br>
+:weight_lifting_man: Tengo algo de experiencia en las siguientes tecnologías, aunque de manera profesional solo he trabajado con Selenium + Java, pero mi idea es seguir creciendo :muscle:
 
 ## Tecnologías:
 [![Javascript](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
